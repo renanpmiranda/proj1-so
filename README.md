@@ -1,7 +1,8 @@
 **Projeto 1 - Sistemas Operacionais**
 
 Lucas Eleutério da Silva - TIA 32240597
-Renan Pires de Mirarnda - TIA 32248253
+
+Renan Pires de Miranda - TIA 32248253
 
 **Introdução**
 
