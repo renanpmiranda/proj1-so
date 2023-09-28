@@ -19,7 +19,9 @@ Antes de tudo, clone o repositório do GitHub que contém o arquivo do programa.
 Agora, clone o repositório:
 
  *git clone [URL_DO_REPOSITORIO]*
+ 
  *cd [NOME_DA_PASTA_DO_REPOSITORIO]*
+ 
 (Substitua [URL_DO_REPOSITORIO] pela URL do repositório no GitHub e [NOME_DA_PASTA_DO_REPOSITORIO] pelo nome da pasta que será criada após clonar.)
 
 2. Compilação
