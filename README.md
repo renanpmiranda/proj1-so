@@ -1,3 +1,8 @@
+**Projeto 1 - Sistemas Operacionais**
+
+Lucas Eleutério da Silva - TIA 32240597
+Renan Pires de Mirarnda - TIA 32248253
+
 **Introdução**
 
 Este programa é uma simulação simples de transferência de valores entre duas contas bancárias usando o sistema clone() para criar threads leves (lightweight processes). O código realiza a transferência de um valor determinado (neste caso, 10) de uma conta para outra, repetindo o processo 10 vezes.
