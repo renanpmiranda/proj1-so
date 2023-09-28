@@ -13,19 +13,19 @@ Bibliotecas padrão do Linux para funções de sistema como clone(), waitpid() e
 1. Clone o repositório
 Antes de tudo, clone o repositório do GitHub que contém o arquivo do programa. Se você não tem o Git instalado, você pode instalá-lo usando:
 
-sudo apt update
-sudo apt install git
+ *sudo apt update*
+ *sudo apt install git*
 
 Agora, clone o repositório:
 
-git clone [URL_DO_REPOSITORIO]
-cd [NOME_DA_PASTA_DO_REPOSITORIO]
+ *git clone [URL_DO_REPOSITORIO]*
+ *cd [NOME_DA_PASTA_DO_REPOSITORIO]*
 (Substitua [URL_DO_REPOSITORIO] pela URL do repositório no GitHub e [NOME_DA_PASTA_DO_REPOSITORIO] pelo nome da pasta que será criada após clonar.)
 
 2. Compilação
 Para compilar o programa, use o GCC:
 
-*gcc -o transferencia_program transferencia.c -lpthread -lrt*
+ *gcc -o transferencia_program transferencia.c -lpthread -lrt*
 
 Neste comando:
 
@@ -35,7 +35,7 @@ Neste comando:
 3. Execução
 Depois de compilado, você pode executar o programa com:
 
-*./transferencia_program*
+ *./transferencia_program*
 
 **Explicação do Código**
 
